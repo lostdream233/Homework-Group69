@@ -1,3 +1,0 @@
-C:/Users/dell/Desktop/Summer Homework/Project4/SM3/cmake-build-debug/CMakeFiles/SM3.dir
-C:/Users/dell/Desktop/Summer Homework/Project4/SM3/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/dell/Desktop/Summer Homework/Project4/SM3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
