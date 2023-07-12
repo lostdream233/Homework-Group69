@@ -7,13 +7,7 @@ ECMH的核心思想是将hash映射为椭圆曲线上的点，利用椭圆曲线
 ## 参数选取
 
 采用secp256k1椭圆曲线实现ECMH，参数如下：
-q = 0xfffffffffffffffffffffffffffffffffffffffffffffffffffffffefffffc2f
-a = 0
-b = 7
-n = 0xfffffffffffffffffffffffffffffffebaaedce6af48a03bbfd25e8cd0364141
-x_G = 0x79be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
-y_G = 0x483ada7726a3c4655da4fbfc0e1108a8fd17b448a68554199c47d08ffb10d4b8
-G = (x_G, y_G)
+![Alt text](3.png)
 
 ## 代码实现
 
