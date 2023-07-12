@@ -20,6 +20,7 @@ Issuer选择随机数种子，并计算其hash值s，然后计算k，并对c做k
 ### Bob
 
 计算d_1，根据p计算c'，最后根据私钥对签名c'进行验证。
+
 ![Alt text](3.png)
 
 ### RSA签名
