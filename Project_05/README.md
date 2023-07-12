@@ -20,6 +20,7 @@ Merkle tree一般是二叉树结构，最底层为数据块，经过hash后成�
 ### 建立Merkle tree
 
 根据输入列表的长度选择建树方式，并在建树完成后返回列表。
+
 ![Alt text](4.png)
 
 ### 建立Merkle tree节点
