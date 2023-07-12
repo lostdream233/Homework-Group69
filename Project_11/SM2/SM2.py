@@ -154,11 +154,11 @@ y_G = "0680512BCBB42C07D47349D2153B70C4E5D7FDFCBFA36EA1A85841B9E46E09A2"
 G = (x_G, y_G)
 n = "8542D69E4C044F18E8B92435BF6FF7DD297720630485628D5AE74EE7C32E79B7"
 #私钥d_B
-d_B = hex(random.randint(pow(2,128),pow(2,129)))[2:]
+d_B = hex(random.randint(pow(2,127),pow(2,128)))[2:]
 P_B = mul_ECC(G, int_hex(d_B))
 v = 256
 
-PT = hex(random.randint(pow(2,128),pow(2,129)))[2:]
+PT = hex(random.randint(pow(2,127),pow(2,128)))[2:]
 print("PT: " + PT + '\n')
 klen = len(PT) * 4
 CT, len_x, len_y, len_C2 = sm2_enc(PT, P_B)
