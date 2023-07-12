@@ -1,4 +1,4 @@
-# homework-group69
+# Homework-Group69
 
 姓名：杜昊
 
