@@ -3,6 +3,7 @@
 ## 在测试网络中收款
 
 首先需要在测试网络中创建一个新的收款地址：
+
 ![Alt text](1.png)
 
 然后到<https://coinfaucet.eu/en/btc-testnet/>进行收款：
