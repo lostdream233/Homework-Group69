@@ -1,0 +1,4 @@
+"F:\Clion\CLion 2023.1\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=F:/Clion/CLion 2023.1/bin/ninja/win/x64/ninja.exe" -G Ninja -S "F:\Cpp Project\SM4" -B "F:\Cpp Project\SM4\cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: F:/Cpp Project/SM4/cmake-build-debug
