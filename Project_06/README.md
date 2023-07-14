@@ -3,6 +3,7 @@
 ## 主要结构
 
 基于hash函数进行范围证明。
+
 ![Alt text](1.png)
 
 ## 代码实现
@@ -10,11 +11,13 @@
 ### Trusted Issuer
 
 Issuer选择随机数种子，并计算其hash值s，然后计算k，并对c做k重hash。最后对c签名并发送给Alice(s, sig_c)。
+
 ![Alt text](2.png)
 
 ### Alice
 
 计算d_0，然后计算证明p，并将(p, sig_c)发送给Bob。
+
 ![Alt text](4.png)
 
 ### Bob
@@ -30,4 +33,5 @@ Issuer选择随机数种子，并计算其hash值s，然后计算k，并对c做k
 ## 运行结果
 
 三方依次进行操作，最后成功通过验证。
+
 ![Alt text](6.png)
