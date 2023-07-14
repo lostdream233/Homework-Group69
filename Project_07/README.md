@@ -8,7 +8,7 @@
 
 ### HashChains类
 
-初始化。
+初始化类内元素。
 
 ![Alt text](2.png)
 
