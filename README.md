@@ -20,19 +20,19 @@
 
 # Project4: do your best to optimize SM3 implementation (software)
 
-C++实现SM3加密。
+实现了SM3加密。
 
 # Project5: Impl Merkle Tree following RFC6962
 
-实现Merkle Tree的数据结构。
+实现了Merkle Tree的数据结构。
 
 # Project6: impl this protocol with actual network communication
 
-
+实现了基于hash函数的范围证明。
 
 # Project7: Try to Implement this scheme
 
-
+实现了Hash Chains。
 
 # Project9: AES / SM4 software implementation
 
