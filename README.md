@@ -7,11 +7,29 @@
 项目：Project1-7 9-22
 
 # Project1: implement the naïve birthday attack of reduced SM3
+
+利用生日悖论，枚举、查表攻击SM3。
+
 # Project2: implement the Rho method of reduced SM3
+
+利用Rho method攻击SM3。
+
 # Project3: implement length extension attack for SM3, SHA256, etc.
+
+对SM3进行了长度扩展攻击。
+
 # Project4: do your best to optimize SM3 implementation (software)
+
+C++实现SM3加密。
+
 # Project5: Impl Merkle Tree following RFC6962
+
+实现Merkle Tree的数据结构。
+
 # Project6: impl this protocol with actual network communication
+
+
+
 # Project7: Try to Implement this scheme
 # Project9: AES / SM4 software implementation
 # Project10: report on the application of this deduce technique in Ethereum with ECDSA
